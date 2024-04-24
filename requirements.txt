@@ -1,0 +1,6 @@
+jupyterlab
+langchain
+langchain-openai
+environs
+beautifulsoup4
+faiss-cpu
