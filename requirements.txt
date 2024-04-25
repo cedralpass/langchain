@@ -4,3 +4,9 @@ langchain-openai
 environs
 beautifulsoup4
 faiss-cpu
+langchain-community
+langchainhub
+langchain-chroma
+bs4
+
+
